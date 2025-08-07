@@ -1,21 +1,19 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **jxc876/jxc876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-I'm a developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things).
+I'm Mike
 
-In my spare time I enjoy hacking on anything fun: Python, Go, Java, JS, Rust, C, C++, etc
+A developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things)
 
+💬 Ask me about anything related to: Python, Go, Java, JS, C, C++, Rust, etc
+
+In my spare time I enjoy building small projects & learning new technologies
