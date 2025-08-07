@@ -16,4 +16,4 @@ A developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Int
 
 💬 Ask me about anything related to: Python, Go, Java, JS, C, C++, Rust, etc
 
-In my spare time I enjoy building small projects & learning new technologies
+In my spare time I enjoy building small projects & learning new technologies 🌱
