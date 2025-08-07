@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things).
+
+In my spare time I enjoy hacking on anything fun: Python, Go, Java, JS, Rust, C, C++, etc
+
