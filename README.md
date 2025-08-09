@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 I'm Mike
 
-A developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things)
+A developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things) 🤖
 
 💬 Ask me about anything related to: Python, Go, Java, JS, C, C++, Rust, etc
 
