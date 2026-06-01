@@ -14,6 +14,4 @@ I'm Mike
 
 A developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things) 🤖
 
-💬 Ask me about anything related to: Python, Go, Java, JS, C, C++, Rust, etc
-
 In my spare time I enjoy building small projects & learning new technologies 🌱
