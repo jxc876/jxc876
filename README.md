@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 Hi, I'm Mike
 
-A developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things) 🤖
-
 In my spare time I enjoy building small projects & learning new technologies 🌱
+
+I'm currently focused on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things) 🤖
