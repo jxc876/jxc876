@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-I'm Mike
+Hi, I'm Mike
 
 A developer currently working on [IoT Devices](https://en.wikipedia.org/wiki/Internet_of_things) 🤖
 
